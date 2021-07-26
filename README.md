@@ -1,1 +1,5 @@
-# js-01-02
+Switch
+Цикл for
+Задачи
+Codewars
+DOM
